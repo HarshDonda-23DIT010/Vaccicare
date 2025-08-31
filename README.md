@@ -1,6 +1,6 @@
 # 🍼 VacciCare
 
-**VacciCare** is an AI-powered healthcare solution built during the **Oddo X Hackathon** 🏆.  
+**VacciCare** is an AI-powered healthcare solution built during the **Oddo X MSU Hackathon** 🏆.  
 It helps parents, doctors, and hospitals to **track the vaccination progress of children** while also providing **baby care insights, hospital recommendations, and intelligent reminders**.  
 
 The project includes:  
